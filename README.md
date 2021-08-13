@@ -1,6 +1,6 @@
-# travens_app
+# arcore_geometry_shapes
 
-A new Flutter project.
+Augmented Reality implementation with arcore_flutter_plugin
 
 ## Getting Started
 
